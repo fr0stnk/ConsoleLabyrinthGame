@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAutomats", "LabAutomats\LabAutomats.csproj", "{2E90D001-E206-4F5F-9B97-3B3777B3F00F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabAutomatsOOP", "LabAutomatsOOP\LabAutomatsOOP.csproj", "{5DD76F6D-7276-4375-A29D-77FBAC54F6A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E90D001-E206-4F5F-9B97-3B3777B3F00F}.Debug|x86.ActiveCfg = Debug|x86
+		{2E90D001-E206-4F5F-9B97-3B3777B3F00F}.Debug|x86.Build.0 = Debug|x86
+		{2E90D001-E206-4F5F-9B97-3B3777B3F00F}.Release|x86.ActiveCfg = Release|x86
+		{2E90D001-E206-4F5F-9B97-3B3777B3F00F}.Release|x86.Build.0 = Release|x86
+		{5DD76F6D-7276-4375-A29D-77FBAC54F6A2}.Debug|x86.ActiveCfg = Debug|x86
+		{5DD76F6D-7276-4375-A29D-77FBAC54F6A2}.Debug|x86.Build.0 = Debug|x86
+		{5DD76F6D-7276-4375-A29D-77FBAC54F6A2}.Release|x86.ActiveCfg = Release|x86
+		{5DD76F6D-7276-4375-A29D-77FBAC54F6A2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

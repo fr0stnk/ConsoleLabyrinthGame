@@ -1,0 +1,10 @@
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomats/bin/Debug/LabAutomats.exe
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomats/bin/Debug/LabAutomats.pdb
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomats/obj/x86/Debug/LabAutomats.csproj.CoreCompileInputs.cache
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomats/obj/x86/Debug/LabAutomats.exe
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomats/obj/x86/Debug/LabAutomats.pdb
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomats\bin\Debug\LabAutomats.exe
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomats\bin\Debug\LabAutomats.pdb
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomats\obj\x86\Debug\LabAutomats.csproj.CoreCompileInputs.cache
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomats\obj\x86\Debug\LabAutomats.exe
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomats\obj\x86\Debug\LabAutomats.pdb

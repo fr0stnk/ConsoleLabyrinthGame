@@ -1,0 +1,11 @@
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomatsOOP/bin/Debug/LabAutomatsOOP.exe
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomatsOOP/bin/Debug/LabAutomatsOOP.pdb
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomatsOOP/obj/x86/Debug/LabAutomatsOOP.csproj.CoreCompileInputs.cache
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomatsOOP/obj/x86/Debug/LabAutomatsOOP.exe
+/Users/nikitakovylov/Projects/LabAutomats/LabAutomatsOOP/obj/x86/Debug/LabAutomatsOOP.pdb
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomatsOOP\bin\Debug\LabAutomatsOOP.exe
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomatsOOP\bin\Debug\LabAutomatsOOP.pdb
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomatsOOP\obj\x86\Debug\LabAutomatsOOP.csproj.CoreCompileInputs.cache
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomatsOOP\obj\x86\Debug\LabAutomatsOOP.exe
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomatsOOP\obj\x86\Debug\LabAutomatsOOP.pdb
+C:\Users\Nikita_Kovylov\Desktop\LabAutomats\LabAutomatsOOP\obj\x86\Debug\LabAutomatsOOP.csprojResolveAssemblyReference.cache
